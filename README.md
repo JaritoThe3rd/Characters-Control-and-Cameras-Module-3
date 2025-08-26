@@ -78,4 +78,11 @@ Change the names to check the difference of the cameras.
 <img width="823" height="553" alt="image" src="https://github.com/user-attachments/assets/653f11ef-4a85-4421-9b94-86eb57e004e5" />
 
 <img width="3408" height="1325" alt="image" src="https://github.com/user-attachments/assets/8523ad8f-29bc-4058-90f1-be03d85fb632" />
+
 Make sure the camera is aligned properly.
+
+<img width="3439" height="294" alt="image" src="https://github.com/user-attachments/assets/32e5f0b6-c3d4-415f-8e2b-60362319652d" />
+
+Turn on "use Pawn Control Rotation"
+
+<img width="1625" height="862" alt="image" src="https://github.com/user-attachments/assets/fc55f99c-1215-48f5-bc0e-c249bc2b24d2" />
