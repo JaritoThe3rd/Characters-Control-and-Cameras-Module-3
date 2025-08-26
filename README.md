@@ -49,5 +49,30 @@ The long red line is the "Springarm".
 
 <img width="2605" height="158" alt="image" src="https://github.com/user-attachments/assets/23f5ca18-5331-4b69-b253-cae3ca2e94ec" />
 
-"Target Arm Lenght" is basically the distance of the camera from the player.
+"Target Arm Length" is basically the distance of the camera from the player.
 
+<img width="1094" height="535" alt="image" src="https://github.com/user-attachments/assets/6e840ff3-9962-4d5f-b30d-ee17429f0d4e" />
+
+<img width="727" height="487" alt="image" src="https://github.com/user-attachments/assets/d1dddbb6-7383-44b1-b1d5-21c23b9aea57" />
+
+<img width="705" height="370" alt="image" src="https://github.com/user-attachments/assets/7d1cb879-9d38-4e2a-b143-59d33b125886" />
+
+<img width="916" height="460" alt="image" src="https://github.com/user-attachments/assets/97208814-3434-4da2-9745-06dbdad4f381" />
+
+<img width="3252" height="1211" alt="image" src="https://github.com/user-attachments/assets/be423a8f-5fbc-4db6-88e7-44b17c8a3505" />
+
+<img width="3306" height="1156" alt="image" src="https://github.com/user-attachments/assets/30d939c7-7b87-47ed-8fcb-b2dc016dc08b" />
+
+<img width="2070" height="905" alt="image" src="https://github.com/user-attachments/assets/6b9293bf-3a40-416b-b79c-5218e6e2b885" />
+
+Turn off "Auto Activate" so it doesn't use the 1st person right away.
+
+<img width="1729" height="375" alt="image" src="https://github.com/user-attachments/assets/d8cda766-08f4-447b-9b26-dd0dad5172d0" />
+
+<img width="727" height="373" alt="image" src="https://github.com/user-attachments/assets/1555167d-c803-4642-a753-5ad5413f2289" />
+
+Change the names to check the difference of the cameras.
+
+<img width="3439" height="1358" alt="image" src="https://github.com/user-attachments/assets/3610ce12-d187-4758-af5d-c34ffaf229b8" />
+
+<img width="823" height="553" alt="image" src="https://github.com/user-attachments/assets/653f11ef-4a85-4421-9b94-86eb57e004e5" />
