@@ -86,3 +86,5 @@ Make sure the camera is aligned properly.
 Turn on "use Pawn Control Rotation"
 
 <img width="1625" height="862" alt="image" src="https://github.com/user-attachments/assets/fc55f99c-1215-48f5-bc0e-c249bc2b24d2" />
+
+<img width="1311" height="659" alt="image" src="https://github.com/user-attachments/assets/49d124db-cb98-46e2-8bb6-4aa4f5f221af" />
