@@ -112,3 +112,12 @@ These are the most important, which are the inputs where binds are instructed by
 <img width="1149" height="487" alt="image" src="https://github.com/user-attachments/assets/78b8b061-e0fd-42cd-9474-c505e15715b4" />
 
 <img width="1312" height="664" alt="image" src="https://github.com/user-attachments/assets/150388e3-ea66-4f62-be2c-df0365d70012" />
+
+<img width="1253" height="379" alt="image" src="https://github.com/user-attachments/assets/ee6e942b-d092-4923-a00b-c9725a9e560b" />
+
+We can use the trigger key to activate certain actions from the E keybind for our interaction button.
+
+<img width="1310" height="643" alt="image" src="https://github.com/user-attachments/assets/e1b7d91b-283b-4a30-bb80-c8696c02c01d" />
+
+<img width="2186" height="911" alt="image" src="https://github.com/user-attachments/assets/4edfbfd5-ea97-4565-9af0-4bb79047c305" />
+
