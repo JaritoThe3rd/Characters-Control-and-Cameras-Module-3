@@ -88,3 +88,9 @@ Turn on "use Pawn Control Rotation"
 <img width="1625" height="862" alt="image" src="https://github.com/user-attachments/assets/fc55f99c-1215-48f5-bc0e-c249bc2b24d2" />
 
 <img width="1311" height="659" alt="image" src="https://github.com/user-attachments/assets/49d124db-cb98-46e2-8bb6-4aa4f5f221af" />
+
+<img width="895" height="321" alt="image" src="https://github.com/user-attachments/assets/3c232f00-fb31-48bd-88af-3a10575e6715" />
+
+<img width="890" height="321" alt="image" src="https://github.com/user-attachments/assets/21b3a897-008d-49ce-b17a-52aee9bfdf38" />
+
+These are the most important, which are the inputs where binds are instructed by these controllers to assign their inputs into a keybind.
