@@ -94,3 +94,21 @@ Turn on "use Pawn Control Rotation"
 <img width="890" height="321" alt="image" src="https://github.com/user-attachments/assets/21b3a897-008d-49ce-b17a-52aee9bfdf38" />
 
 These are the most important, which are the inputs where binds are instructed by these controllers to assign their inputs into a keybind.
+
+<img width="1227" height="840" alt="image" src="https://github.com/user-attachments/assets/613945ac-1b39-4b12-a261-be652f1b99c5" />
+
+!!!! The red built in nodes are fine for testing certain movements. but you don't want to hardcode most of these systems.!!!!
+
+<img width="2040" height="1042" alt="image" src="https://github.com/user-attachments/assets/8385f45c-03ee-44f4-8539-71e2ff380e52" />
+
+<img width="862" height="346" alt="image" src="https://github.com/user-attachments/assets/be580a60-6722-4a16-962f-00f715c0db04" />
+
+<img width="2085" height="929" alt="image" src="https://github.com/user-attachments/assets/e32208eb-6bde-4895-bbf5-d8a0b355f87e" />
+
+<img width="475" height="139" alt="image" src="https://github.com/user-attachments/assets/322dbe48-ce8b-4291-8a0d-26a6f02c761f" />
+
+<img width="3438" height="1281" alt="image" src="https://github.com/user-attachments/assets/14c4cd41-730d-4a71-ad8f-d663d698c525" />
+
+<img width="1149" height="487" alt="image" src="https://github.com/user-attachments/assets/78b8b061-e0fd-42cd-9474-c505e15715b4" />
+
+<img width="1312" height="664" alt="image" src="https://github.com/user-attachments/assets/150388e3-ea66-4f62-be2c-df0365d70012" />
