@@ -121,3 +121,10 @@ We can use the trigger key to activate certain actions from the E keybind for ou
 
 <img width="2186" height="911" alt="image" src="https://github.com/user-attachments/assets/4edfbfd5-ea97-4565-9af0-4bb79047c305" />
 
+<img width="663" height="534" alt="image" src="https://github.com/user-attachments/assets/15f19c92-0a3f-46e9-ada3-f2a6e5d83da2" />
+
+<img width="637" height="558" alt="image" src="https://github.com/user-attachments/assets/0c4bd6b7-3145-438b-b805-f1269053b28f" />
+
+<img width="667" height="473" alt="image" src="https://github.com/user-attachments/assets/954902a1-b96a-486d-ad72-9d4ebe351e19" />
+
+<img width="658" height="426" alt="image" src="https://github.com/user-attachments/assets/2997111d-4cb4-4549-9a05-4800488a2ce7" />
